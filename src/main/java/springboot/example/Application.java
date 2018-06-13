@@ -13,6 +13,7 @@ public class Application {
         return "HelloWorld!";
     }
 
+
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
     }
